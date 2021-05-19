@@ -16,10 +16,12 @@ Images from this [Jupyter notebook](https://github.com/josephwkania/visualizatio
 Mosaiced in [InDesign](https://github.com/josephwkania/visualizations/blob/master/dm_time/dm-time.indd).
 
 
-## Match Filter
+## Matched Filter
 
 ![DM-Time](https://github.com/josephwkania/visualizations/blob/master/matched_filter/matched_filter.png)
 ![DM-Time](https://github.com/josephwkania/visualizations/blob/master/matched_filter/boxcars.png)
 ![DM-Time](https://github.com/josephwkania/visualizations/blob/master/matched_filter/SNR.png)
 
-Copyright :copyright: 2020 Joseph W Kania
+From this [Jupyter notebook](https://github.com/josephwkania/visualizations/blob/master/matched_filter/boxcar_search.ipynb).
+
+Copyright :copyright: 2021 Joseph W Kania
